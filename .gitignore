@@ -1,0 +1,19 @@
+# Ignore Maven build output
+target
+
+# IDEs
+*.iml
+.idea
+out
+.classpath
+.project
+.settings
+.vscode
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test files
+test*.txt
+
